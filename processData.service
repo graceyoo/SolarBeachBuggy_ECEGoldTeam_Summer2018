@@ -1,0 +1,10 @@
+[Unit]
+Description=Start processing sensor data from start up
+
+
+[Service]
+Type=idle
+ExecStart= /usr/bin/python /home/pi/Desktop/autonomousTest.py
+
+[Install]
+WantedBy=multi-user.target
