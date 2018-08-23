@@ -1,2 +1,1 @@
-# SolarBeachBuggyGoldTeamSummer2018
 # SolarBeachBuggy_Summer2018_ECEGoldTeam
